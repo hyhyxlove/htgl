@@ -1,13 +1,10 @@
 <template>
-    <div>
-        我是组件
-    </div>
+    <div>我是home</div>
 </template>
+
 <script>
 
 export default {
-    props: ["data"],
-    name: "Index",
     data() {
         return {
 
@@ -15,6 +12,3 @@ export default {
     }
 }
 </script>
-<style>
-
-</style>
